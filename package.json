@@ -1,0 +1,31 @@
+{
+  "name": "gossipy",
+  "version": "1.0.0",
+  "description": "website let gossip fly.",
+  "main": "server.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.0",
+    "koa": "^1.2.4",
+    "koa-route": "^2.4.2",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vickyoopy/Gossipy.git"
+  },
+  "keywords": [
+    "gossip"
+  ],
+  "author": "vicky peng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vickyoopy/Gossipy/issues"
+  },
+  "homepage": "https://github.com/vickyoopy/Gossipy#readme"
+}
